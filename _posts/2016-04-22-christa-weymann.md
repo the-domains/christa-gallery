@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Christa Weymann
-datePublished: '2016-04-22T23:06:25.241Z'
-dateModified: '2016-04-22T23:05:59.279Z'
+datePublished: '2016-04-22T23:06:42.560Z'
+dateModified: '2016-04-22T23:06:41.717Z'
 title: ''
 author: []
 authors: []
@@ -24,7 +24,8 @@ _type: Article
 ---
 Christa Weymann künstlerische Laufbahn
 
-  
+**_Techniken_**
+
 - Acryl
 
 - Mischtechnik
