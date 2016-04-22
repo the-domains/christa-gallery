@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Christa Weymann künstlerische Laufbahn
-datePublished: '2016-04-22T23:19:55.340Z'
-dateModified: '2016-04-22T23:19:22.555Z'
+datePublished: '2016-04-22T23:57:28.468Z'
+dateModified: '2016-04-22T23:57:16.585Z'
 title: ''
 author:
   - name: ''
@@ -19,7 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
+starred: true
 url: christa-weymann/index.html
 _type: Article
 
@@ -59,6 +59,6 @@ Seminare und Workshops (Auszug)- an der VHS Mannheim
 - Rathaus Östringen
 
 - Dauerausstellung Ärztehaus Bruchsal / Praxis Dr. Stengel
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/dfc4929ed7dc1a6dadb43518933c3aea04300ca2.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/67a8412d-fcc8-4502-a035-1c470a045e5a.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/58cd4b57-b446-479d-8b5c-bf65350f13ad.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/dfc4929ed7dc1a6dadb43518933c3aea04300ca2.jpg)
