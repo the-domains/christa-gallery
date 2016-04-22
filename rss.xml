@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Christa-gallery]]></title>
         <description><![CDATA[Christa-gallery]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/christa-gallery/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Apr 2016 23:07:03 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 22 Apr 2016 23:16:50 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/christa-gallery/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Christa Weymann künstlerische Laufbahn</p>]]></description>
-            <link>undefinedchrista-weymann/index.html</link>
+            <link>https://thegrid.ai/christa-gallery/christa-weymann/index.html</link>
             <guid isPermaLink="false">83b25b7c-106d-42f0-8d91-412a31c7d22f</guid>
-            <pubDate>Fri, 22 Apr 2016 23:06:25 GMT</pubDate>
+            <pubDate>Fri, 22 Apr 2016 23:16:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
