@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Christa-gallery]]></title>
+        <description><![CDATA[Christa-gallery]]></description>
+        <link>https://thegrid.ai/christa-gallery/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 22 Apr 2016 23:07:09 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/christa-gallery/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Christa Weymann künstlerische Laufbahn</p>]]></description>
+            <link>https://thegrid.ai/christa-gallery/christa-weymann/index.html</link>
+            <guid isPermaLink="false">83b25b7c-106d-42f0-8d91-412a31c7d22f</guid>
+            <pubDate>Fri, 22 Apr 2016 23:06:42 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
