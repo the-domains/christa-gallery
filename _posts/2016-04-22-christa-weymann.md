@@ -1,12 +1,13 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 keywords: []
 description: Christa Weymann künstlerische Laufbahn
-datePublished: '2016-04-22T23:57:28.468Z'
-dateModified: '2016-04-22T23:57:16.585Z'
+datePublished: '2016-04-23T00:40:13.816Z'
+dateModified: '2016-04-23T00:36:16.082Z'
 title: ''
 author:
   - name: ''
@@ -19,9 +20,8 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: true
-url: christa-weymann/index.html
-_type: Article
+starred: false
+_type: Blurb
 
 ---
 Christa Weymann künstlerische Laufbahn
@@ -40,9 +40,7 @@ Christa Weymann künstlerische Laufbahn
 
 Seminare und Workshops (Auszug)- an der VHS Mannheim
 
-- an der Kunstakademie Bad Reichenhall, u. a. bei Professor Günther Meck
-
-- bei Reiner Negrelli, Landau
+- an der Kunstakademie Bad Reichenhall, u. a. bei Professor Günther Meck und Reiner Negrelli
 
 **_Ausstellungen (Auszug)_**
 
@@ -59,6 +57,6 @@ Seminare und Workshops (Auszug)- an der VHS Mannheim
 - Rathaus Östringen
 
 - Dauerausstellung Ärztehaus Bruchsal / Praxis Dr. Stengel
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/67a8412d-fcc8-4502-a035-1c470a045e5a.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/58cd4b57-b446-479d-8b5c-bf65350f13ad.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/dfc4929ed7dc1a6dadb43518933c3aea04300ca2.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/533fe3575fe51182f7efa47aa8abc9b3f3ea353f.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/58cd4b57-b446-479d-8b5c-bf65350f13ad.jpg)
